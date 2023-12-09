@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : UBISWITCH_REV_A_MODULE.dra                    )
+(    Software Version : 17.4S030                                      )
+(    Date/Time        : Fri Dec  8 19:54:08 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/2023/Joshua/UbiSwitch Rev A/2023-11-07/Allegro-ERF8-030-05.0-S-DV-K-TR
+    Name      = ubiswitch_rev_a_module.psm
+    User      = DELL
+    Machine   = DESKTOP-NV0N4RV
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
