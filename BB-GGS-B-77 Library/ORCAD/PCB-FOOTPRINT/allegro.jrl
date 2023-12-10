@@ -1,0 +1,67 @@
+\t (00:00:55) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:55)     Journal start - Sun Dec 10 06:50:12 2023
+\t (00:00:55)         Host=DESKTOP-NV0N4RV User=DELL Pid=4264 CPUs=12
+\t (00:00:55) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:55) 
+\d (00:00:55) Design opened: E:/2023/Joshua/StaxB/2023-12-09/ORCAD/PCB-FOOTPRINT/STAXB_MODULE.dra
+\i (00:00:55) trapsize 11059
+\i (00:00:55) trapsize 756
+\i (00:00:55) trapsize 767
+\i (00:00:55) trapsize 668
+\i (00:00:55) etchedit 
+\i (00:00:58) clppaste 
+\i (00:01:00) fillin "standard"
+\i (00:01:00) trapsize 659
+\i (00:01:03) pick 0 0 
+\t (00:01:03) last pick:  0.0000 0.0000
+   (00:01:03)  10 percent completed
+   (00:01:03)  20 percent completed
+   (00:01:03)  100 percent completed
+\i (00:01:03) etchedit 
+\i (00:01:04) prepopup -9.1371 -11.9001
+\i (00:01:05) pick grid 8.8057 -13.0339
+\t (00:01:05) last pick:  8.8900 -13.3350
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 2.3721 -12.5857
+\i (00:01:06) trapsize 1318
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 2.1612 -13.2184
+\i (00:01:06) trapsize 2637
+\i (00:01:06) pick grid 12.1281 -1.8831
+\t (00:01:06) last pick:  12.0650 -1.9050
+\i (00:01:07) save 
+\i (00:01:08) fillin yes 
+\t (00:01:08) Symbol 'staxb_module.psm' created.
+\i (00:01:08) etchedit 
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 2.5832 12.8825
+\i (00:01:10) trapsize 1318
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 1.8449 12.8561
+\i (00:01:10) trapsize 659
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 1.3835 12.7507
+\i (00:01:11) trapsize 330
+\i (00:01:11) roam y -96 
+\i (00:01:11) roam y -96
+\i (00:01:11) roam y -96 
+\i (00:01:11) roam y -96
+\i (00:01:12) roam y 96 
+\i (00:01:12) roam y 96
+\i (00:01:12) roam y 96 
+\i (00:01:12) roam y 96
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 3.3281 11.9200
+\i (00:01:12) trapsize 659
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 3.3281 11.9201
+\i (00:01:12) trapsize 1318
+\i (00:01:13) exit 
+\t (00:01:13)     Journal end - Sun Dec 10 06:50:31 2023
