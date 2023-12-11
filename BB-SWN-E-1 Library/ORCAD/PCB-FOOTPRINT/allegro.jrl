@@ -1,0 +1,70 @@
+\t (00:00:05) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Tue Dec 12 05:33:11 2023
+\t (00:00:05)         Host=DESKTOP-NV0N4RV User=DELL Pid=14104 CPUs=12
+\t (00:00:05) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:05) function PinVia_Overlap_Start redefined
+   (00:00:05) function PinVia_Overlap_Form_CallBack redefined
+   (00:00:05) function PinVia_Overlap_Zoom_Or_Delete redefined
+   (00:00:05) function PinVia_Overlap_GetData redefined
+   (00:00:05) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:05) function Pin_Via_Overlapped_Form_Build redefined
+   (00:00:05) function PinVia_Overlap_GetHelpFile redefined
+   (00:00:05) function _saveSelSet redefined
+   (00:00:05) function _restoreSelSet redefined
+   (00:00:05) function Get_All_SymDef redefined
+   (00:00:05) function DEBOX_Executive redefined
+   (00:00:05) function Find_Point_On_Line_From_Distant redefined
+   (00:00:05) function Find_Point_Quadrature_Line redefined
+   (00:00:05) function Line_Line_Intersect redefined
+   (00:00:05) function GetHelpFile redefined
+   (00:00:05) function RP_main redefined
+   (00:00:05) function RP_Action redefined
+   (00:00:05) function Load_Padstack redefined
+   (00:00:05) function Create_RP_Form redefined
+   (00:00:05) function GetHelpFile redefined
+   (00:00:05) function _getPinsNet redefined
+   (00:00:05) function _getBranchs redefined
+   (00:00:05) function _getPaths redefined
+   (00:00:05) function _get2PointsPath redefined
+   (00:00:05) function _checkElementList redefined
+   (00:00:05) function _getSurroundPoints redefined
+   (00:00:05) function _getListPointsLPaths redefined
+   (00:00:05) function _checkPathPoint redefined
+   (00:00:05) function _deleteElementList redefined
+   (00:00:05) function SetColor redefined
+   (00:00:05) function GRID_Out redefined
+   (00:00:05) function OFFS_Start redefined
+   (00:00:05) function OFFS_Stop redefined
+   (00:00:05) function p redefined
+   (00:00:05) function Get_All_SymDef redefined
+   (00:00:05) function _checkElementList redefined
+   (00:00:05) function _deleteElementList redefined
+   (00:00:05) function VoidSilk_Executive redefined
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BB-SWN-C-1-HW_MODULE
+\d (00:00:06) Design opened: E:/2023/Joshua/BB-SWN-C-1-HW/2023-12-11/ORCAD/PCB-FOOTPRINT/BB-SWN-C-1-HW_MODULE.dra
+\t (00:00:06) Grids are drawn 100.000, 100.000 apart for enhanced viewability.
+\i (00:00:06) trapsize 268
+\i (00:00:06) trapsize 273
+\i (00:00:06) trapsize 268
+\i (00:00:06) trapsize 234
+\i (00:00:06) trapsize 267
+\i (00:00:06) trapsize 271
+\i (00:00:06) trapsize 237
+\i (00:00:06) trapsize 237
+\i (00:00:07) etchedit 
+\i (00:00:22) open 
+\i (00:00:27) fillin "E:\2023\Dale_Mitchell\27095\DataBase\2023-12-12\27095_2023-12-12.brd"
+\i (00:00:27) cd "E:\2023\Dale_Mitchell\27095\DataBase\2023-12-12"
+\t (00:00:27) Opening existing design...
+\i (00:00:28) trapsize 155302
+\i (00:00:28) trapsize 157840
+\i (00:00:28) trapsize 158729
+\i (00:00:28) trapsize 155302
+\t (00:00:28) Grids are drawn 100.0000, 100.0000 apart for enhanced viewability.
+\i (00:00:28) trapsize 213706
+\t (00:00:28)     Journal end - Tue Dec 12 05:33:34 2023
+
